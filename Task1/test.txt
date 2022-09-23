@@ -1,0 +1,73 @@
+10
+
+last 2
+1 buy Apple 10 150
+2 buy MIPT 5 140
+
+first 2
+1 sell Apple 10 150
+2 sell MIPT 5 140
+
+first 4
+1 buy MIPT 10 140
+2 buy Apple 20 150
+3 sell Apple 20 130
+4 sell MIPT 5 160
+
+first 5
+1 buy Apple 10 150
+2 buy Apple 5 140
+3 sell Apple 5 145
+4 sell Apple 15 155
+5 buy Apple 15 135
+
+last 5
+1 buy Apple 10 150
+2 buy Apple 5 140
+3 sell Apple 5 145
+4 sell Apple 15 155
+5 buy Apple 15 135
+
+first 3
+1 buy Apple 15 150
+2 sell Apple 5 120
+3 sell Apple 5 145
+
+first 8
+1 sell Apple 5 145
+2 buy MIPT 15 145
+3 sell Apple 5 145
+4 sell MIPT 5 160
+5 buy Jango 15 130
+6 buy MIPT 5 145
+7 sell MIPT 20 200
+8 sell Jango 10 150
+
+last 5
+1 buy MIPT 10 100
+2 buy MIPT 15 100
+3 buy MIPT 15 300
+4 buy Apple 15 145
+5 sell MIPT 45 200
+
+
+last 6
+1 buy MIPT 10 145
+2 buy MIPT 10 145
+3 buy MIPT 10 145
+4 sell MIPT 15 150
+5 sell MIPT 5 160
+6 sell MIPT 10 120
+
+last 8
+1 buy MIPT 15 145
+2 sell MIPT 5 160
+3 buy Jango 10 150
+4 sell MIPT 20 200
+5 buy Apple 5 145
+6 buy Jango 5 145
+7 sell Apple 5 145
+8 sell Jango 15 130
+
+
+

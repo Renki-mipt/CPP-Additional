@@ -1,0 +1,4 @@
+Программа в файле First_Actions.cpp запускается командами:
+g++ First_Actions.cpp -o First_Actions.exe
+First_Actions.exe
+Тесты лежат в файле test.txt
