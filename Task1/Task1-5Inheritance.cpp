@@ -11,7 +11,9 @@ public:
     virtual double Volume() const {
         return Square() * high_;
     }
-protected:
+    // К этому классу есть одно замечание.
+    // В качестве подсказки рекомендую еще раз посмотреть презентацию к первой лекции.
+protected: // А зачем делать это поле protected?
     double high_;
 };
 
@@ -24,7 +26,7 @@ public:
     virtual double Square() const {
         return side_ * side_;
     }
-protected:
+protected: // А зачем делать это поле protected?
     double side_;
 };
 
@@ -32,7 +34,7 @@ class Cube : public Box
 {
 public:
     Cube(double l) : Box(l, l) {
-        side_ = l;
+        side_ = l; // Уверены, что нужно делать это присваивание?
     }
 };
 
